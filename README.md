@@ -1,7 +1,9 @@
 # Playwright with Proxy
 ## A Python script using Playwright to perform web scraping with a proxy. This example demonstrates how to use Playwright to launch a Chromium browser with a specified proxy, navigate to a URL, and perform actions on the page
 ## Installation
+```bash
 pip install playwright
+```
 urllib: This library is part of the Python standard library, and you typically don't need to install it separately
 
 ## Configuration
